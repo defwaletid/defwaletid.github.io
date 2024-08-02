@@ -66,9 +66,10 @@
     "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
     "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
     "static/media/share-profile.sftproject.png": "/static/media/share-profile.sftproject.png",
-    "static/media/sftproject sharing.png": "/static/media/sftproject sharing.png",
+    "static/media/sftproject-sharing.png": "/static/media/sftproject-sharing.png",
     "static/media/storm.sftproject.png": "/static/media/strom.sftproject.png",
     "static/media/sftoken-nft.png": "/static/media/sftoken-nft.png"
+    
   },
   "entrypoints": [
     "static/js/runtime-main.4b5a7c38.js",
