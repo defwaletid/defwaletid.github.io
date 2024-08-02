@@ -53,6 +53,7 @@
     "static/js/24.ef56ef85.chunk.js": "/static/js/24.ef56ef85.chunk.js",
     "static/js/24.ef56ef85.chunk.js.map": "/static/js/24.ef56ef85.chunk.js.map",
     "index.html": "/index.html",
+    
     "static/css/3.5b5b985f.chunk.css.map": "/static/css/3.5b5b985f.chunk.css.map",
     "static/css/5.78dbf52a.chunk.css.map": "/static/css/5.78dbf52a.chunk.css.map",
 
@@ -60,10 +61,7 @@
     "static/js/0.3e6aedc9.chunk.js.LICENSE.txt": "/static/js/0.3e6aedc9.chunk.js.LICENSE.txt",
     "static/js/3.05a2f0f9.chunk.js.LICENSE.txt": "/static/js/3.05a2f0f9.chunk.js.LICENSE.txt",
     "static/js/4.7c87f3a4.chunk.js.LICENSE.txt": "/static/js/4.7c87f3a4.chunk.js.LICENSE.txt",
-
-
-    
-   "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
+    "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
     "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
     "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
     "static/media/icon.sftproject.png": "/static/media/icon.sftproject.png",
@@ -73,12 +71,13 @@
     "static/media/sftproject-sharing.png": "/static/media/sftproject-sharing.png",
     "static/media/storm.sftproject.png": "/static/media/strom.sftproject.png",
     "static/media/sftoken-nft.png": "/static/media/sftoken-nft.png"
-    
   },
   "entrypoints": [
     "static/js/runtime-main.4b5a7c38.js",
     "static/css/3.5b5b985f.chunk.css",
     "static/js/3.05a2f0f9.chunk.js",
+    
     "static/js/main.58aec510.chunk.js"
+    
   ]
 }
